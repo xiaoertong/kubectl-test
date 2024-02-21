@@ -1,4 +1,4 @@
-module github.com/replicatedhq/krew-plugin-template
+module github.com/k8s/kubectl-test
 
 go 1.16
 
